@@ -1,0 +1,15 @@
+C:\Users\319136\Desktop\Угадайка\Угадай\bin\Debug\Угадай.exe.config
+C:\Users\319136\Desktop\Угадайка\Угадай\bin\Debug\Угадай.exe
+C:\Users\319136\Desktop\Угадайка\Угадай\bin\Debug\Угадай.pdb
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.csprojAssemblyReference.cache
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\MainWindow.g.cs
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\App.g.cs
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай_MarkupCompile.cache
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай_MarkupCompile.lref
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\MainWindow.baml
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.g.resources
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.Properties.Resources.resources
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.csproj.GenerateResource.cache
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.csproj.CoreCompileInputs.cache
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.exe
+C:\Users\319136\Desktop\Угадайка\Угадай\obj\Debug\Угадай.pdb
